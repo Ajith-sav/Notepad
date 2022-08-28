@@ -1,1 +1,3 @@
 # Notepad
+> notepad in python...
+> It is similar to normal notrpad
