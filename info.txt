@@ -1,0 +1,5 @@
+>This notepad is create using python.
+>Using tkinter lib
+>hear you can create the new file, save , open ,  exit 
+>And cut, copy, paste it is similar to notepad
+>It is created this notepad 
